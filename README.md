@@ -50,7 +50,7 @@ The circuit consists of:
 
 Here’s a simple circuit diagram to visualize the wiring:
 
-![Circuit Diagram](https://example.com/smart-trolley-circuit.png)
+![Circuit Diagram](https://justdoelectronics.com/wp-content/uploads/2023/10/Smart-Trolly-using-20x4-lcd-display-1320x708.png)
 
 ## Installation
 
